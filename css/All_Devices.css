@@ -1,0 +1,212 @@
+@media screen and (max-width: 500px){
+        header .hero-text-heading .hero-text-heading-name{
+        font-size: 2em;
+}
+section{
+    padding: 20px 0px;
+}
+section img.under_line_img{
+    margin: 10px auto;
+}
+section h2{
+    font-size: 2.0em;
+}
+.about_sec_para{
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.about_sec_img{
+     margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+    .sec_1_bg {
+    clear: both;
+    opacity: 0.8;
+        background-image: none !important;
+    background-color: #18bc9c !important;
+}
+    .sec_1_bg {
+        clear: both;
+        padding-top: 25%;
+    }
+
+    .sec_1_hding, .sec_1_hding2 {
+        font-size: 14px !important;
+    }
+    .sec_1_hding2{
+        color:#262626 !important;
+    }
+
+    .sec_1_hds {
+        padding-top: 30% !important;
+        padding-left: 5%;
+    }
+
+    .sec_1_para {
+        font-size: 11px !important;
+        padding-top:5px;
+    }
+
+    .sec_1_reg_sym {
+        font-size: 11px;
+    }
+
+    .sec_1_btns ul {
+        padding: 8% 0% 15% 5% !important;
+    }
+
+    .sec_1_sm {
+        background: #9bd042;
+        padding: 10px 10px 10px 10px !important;
+    }
+
+    .sec_1_km {
+        background: #2c3e50;
+        padding: 10px 15px 10px 10px !important;
+    }
+
+    .who-we-are-about .who-we-are-about-img {
+    padding-top: 15px;
+}
+    .who-we-are-about .who-we-are-about-text {
+    padding-left: 10%;
+    padding-top: 25px;
+    padding-bottom: 0px;
+}
+    .com-fun-heading h3 {
+    font-weight: bolder;
+    color: #fff;
+    font-size: 29px;
+}
+
+    .our-team-heading h3 {
+    font-size: 23px;
+    font-weight: bolder;
+    color: #fff;
+    padding-top: 3%;
+    margin: 0%;
+}
+    .our-team-achive h3 {
+       font-size: 23px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #333;
+    padding-top: 3%;
+    margin: 0%;
+}
+
+    .sec_4_btns {
+    clear: both;
+    text-align: center;
+}
+    .sec_4_btns ul {
+    list-style: none;
+    display: inline-block;
+    padding: 12% 0% 7.9% 5% !important;
+}
+
+    .sec_4_sm {
+    background: transparent;
+    padding: 15px 50px 15px 50px;
+    border: 2px solid #9bd042;
+    transition: all .3s ease-in-out;
+} 
+
+    .sec_4_hds {
+    padding-top: 10%;
+    padding-left: 5%;
+    margin-top: 0%;
+    padding-right: 5%;
+}
+
+    .sec_4_hding {
+    font-size: 18px;
+    font-family: Voces-Regular;
+    color: #18bc9c;
+    font-weight: bold;
+}
+
+    .sec_4_hding2 {
+    font-size: 12px;
+    font-weight: 500;
+    font-family: Voces-Regular;
+    color: #fff;
+    padding-top: 8%;
+}
+
+    .our-team-achievment {
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+    .our-team-achive {
+    position: relative;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991){
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px){
+
+}
+
+@media screen  and (max-width: 979px){
+    .sec_1_hds {
+    padding-top: 25%;
+    padding-left: 5%;
+    margin-top: 12%;
+}
+ header .hero-text-heading .hero-text-heading-name{
+   font-size: 3em;
+}
+header .skills{
+        font-size: 1.25em;
+        font-weight: 300;
+         font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+section img{
+    margin: 10px auto;
+}
+section h2{
+    font-size: 2.0em;
+}
+    .sec_4_hding {
+    font-size: 18px;
+    font-family: Voces-Regular;
+    text-align: left;
+    color: #18bc9c;
+    font-weight: bold;
+}
+
+    .sec_4_hding2 {
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Voces-Regular;
+    text-align: left;
+    color: #fff;
+    padding-top: 3%;
+}
+    .sec_4_btns ul {
+    list-style: none;
+    display: inline-block;
+    padding: 5% 0% 7.9% 5%;
+}
+}
+
+
+@media screen and (max-width: 1920px) and (min-width: 1500px){
+    .navbar-fixed-top {
+    padding: 32px 0px !important;
+    transition: all .3s;
+}
+}
+
+
